@@ -1,0 +1,7 @@
+#!/bin/bash
+clear
+cd Logo && ./introxt_logo
+cd ..
+echo "Enter Your Interface";
+read inf;
+netdiscover -i $inf -p
