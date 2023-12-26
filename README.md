@@ -1,4 +1,4 @@
-**Network Scanning Script**
+# Passive sniffer
 
 **Overview**
 This script provides a simple interface for scanning the local network using the netdiscover tool.
